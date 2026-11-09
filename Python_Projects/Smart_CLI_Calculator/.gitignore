@@ -1,0 +1,17 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Calculator's personal history
+history.json
+
+# Environment variables and secrets
+.env
+
+# VS Code settings
+.vscode/
